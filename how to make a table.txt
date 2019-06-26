@@ -1,0 +1,20 @@
+<table>
+    <tr>
+        <td>1 coke</td>
+        <td>2 coke</td>
+        <td>3 coke</td>
+    </tr>
+    <tr>
+        <td>1 sprite</td>
+        <td>2 sprite</td>
+        <td>3 sprite</td>
+        
+    </tr>
+    <tr>
+       <td>1 fanta</td>
+       <td>2 fanta</td>
+       <td>3 fanta</td>
+    
+    </tr>
+</table>
+how to make a table
