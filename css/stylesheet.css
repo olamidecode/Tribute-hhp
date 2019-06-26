@@ -39,7 +39,7 @@ nav{
     background-color: white;
     text-align: center;
     color: white;
-    list-style: none;
+    list-style: italic;
 }
 nav li{
     display: inline-block;
