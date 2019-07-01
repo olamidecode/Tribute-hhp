@@ -1,31 +1,39 @@
 /*style sheet*/
 
 img{display:block; margin:auto;}
-h1 { color:gold}  
-h2 { color:gold}  
-h3 {color: gold}
-p {color:white}
-body{font-size: 19px }
-body{background-image:url("project.css");} 
-h1{border-style: solid;
-border-width: 3px;
-border-left-width :10px;
-border-right-width: 10px;
-border-color:white;}
+
+body{
+    background-image:url("background.jpg");
+    font-family: 'Permanent Marker',cursive;
+} 
+
+h1{
+    border-style: solid;
+    border-width: 3px;
+    border-left-width :10px;
+    border-right-width: 10px;
+    border-color:white;
+    color:gold;
+}
 h2 {
     border-style: solid;
     border-width: 3px;
     border-left-width: 10px; 
     border-right-width: 10px;
     border-color:white;
-    }
-h3 {border-style: solid;
+    color: gold;
+}
+h3 {
+    border-style: solid;
     border-width: 3px;
     border-left-width: 10px;
     border-right-width: 10px;
     border-color:white;
+    color: gold;
     }
-ul{color: white}
+ul{color: white;
+    font-size: 23px;
+}
 p{
     color:white;
     font-size: 25px;
@@ -36,15 +44,20 @@ nav{
     padding: 0%;
     width: 100% auto;
     height: 60px;
-    background-color: white;
+    background-color:black;
     text-align: center;
-    color: white;
-    list-style: italic;
+    color:black;
+    list-style: none;
+    list-style-type: georgian;
 }
 nav li{
     display: inline-block;
     padding: 10px 40px;
+    }
+nav a{color: gold;}
 
-
-
+#more{
+    display: none;
 }
+footer p{ color: white;
+    }
